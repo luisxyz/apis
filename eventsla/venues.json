@@ -1,0 +1,50 @@
+[
+  {
+    "id": 11,
+    "name": "Staples Center",
+    "icon": "https://endeavorexperiences.com/misc/images/Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NjI5MzA0NTMyMg==/staples-center.png",
+    "address": "1111 Kobe Bryant Blvd, Los Angeles, CA 90015"
+  },
+  {
+    "id": 12,
+    "name": "Hollywood Bowl",
+    "icon": "https://endeavorexperiences.com/misc/images/Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NjI5MzA0NTMyMg==/hollywood-bowl.png",
+    "address": "2301 N Highland Ave, Los Angeles, CA 90068"
+  },
+  {
+    "id": 13,
+    "name": "SoFi Stadium",
+    "icon": "https://endeavorexperiences.com/misc/images/Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NjI5MzA0NTMyMg==/sofi-stadium.png",
+    "address": "1000 S Prairie Ave, Inglewood, CA 90301"
+  },
+  {
+    "id": 14,
+    "name": "Angel Stadium of Anaheim",
+    "icon": "https://endeavorexperiences.com/misc/images/Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NjI5MzA0NTMyMg==/angles-stadium.png",
+    "address": "2000 E Gene Autry Way, Anaheim, CA 92806"
+  },
+  {
+    "id": 15,
+    "name": "Microsoft Theater",
+    "icon": "https://endeavorexperiences.com/misc/images/Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NjI5MzA0NTMyMg==/microsoft-theater.png",
+    "address": "777 Chick Hearn Ct, Los Angeles, CA 90015"
+  },
+  {
+    "id": 16,
+    "name": "TCL Chinese Theatre",
+    "icon": "https://endeavorexperiences.com/misc/images/Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NjI5MzA0NTMyMg==/tcl-chinese-theater.png",
+    "address": "6925 Hollywood Blvd, Hollywood, CA 90028"
+  },
+  {
+    "id": 17,
+    "name": "Dolby Theatre",
+    "icon": "https://endeavorexperiences.com/misc/images/Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NjI5MzA0NTMyMg==/dolby-theater.png",
+    "address": "6801 Hollywood Blvd, Hollywood, CA 90028"
+  },
+  {
+    "id": 18,
+    "name": "Walt Disney Concert Hall",
+    "icon": "https://endeavorexperiences.com/misc/images/Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NjI5MzA0NTMyMg==/walt-disney-hall.png",
+    "address": "111 S Grand Ave, Los Angeles, CA 90012"
+  }
+]

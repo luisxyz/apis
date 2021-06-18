@@ -1,0 +1,41 @@
+{
+    "done": true,
+    "places": [
+        {
+            "id": "aaa",
+            "name": "A Conscious Cafe",
+            "address": "500 Harrison St.",
+            "stars": 5,
+            "reviews": 35,
+            "price": "$$$",
+            "description": "Revitalizing surroundings which help you unwind, enjoy a delicious meal, and maybe even unplug!"
+        },
+        {
+            "id": "bbb",
+            "name": "BRGR",
+            "address": "434 Hamilton Ave.",
+            "stars": 5,
+            "reviews": 840,
+            "price": "$",
+            "description": "Our take on a modern burger joint that delivers made-to-order classics and specials. BRGR features fresh beef, vegetarian burgers and chicken sandwiches with all condiments, sides, and aiolis made in house."
+        },
+        {
+            "id": "ccc",
+            "name": "Levain",
+            "address": "650 Bethune St.",
+            "stars": 3,
+            "reviews": 9,
+            "price": "$$",
+            "description": "The best of California produce and flavors, à la Parisienne."
+        },
+        {
+            "id": "ddd",
+            "name": "Marketplace Cafe",
+            "address": "650 Hamilton Ave.",
+            "stars": 4,
+            "reviews": 22,
+            "price": "$",
+            "description": "A fresh take on the full-bodied flavors of a street market."
+        }
+    ]
+}

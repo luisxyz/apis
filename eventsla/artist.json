@@ -1,0 +1,52 @@
+[
+  {
+    "id": 101,
+    "name": "John Anthony",
+    "genre": "Rock"
+  },
+  {
+    "id": 102,
+    "name": "Wanda Maximoff",
+    "genre": "Blues"
+  },
+  {
+    "id": 103,
+    "name": "Nick Fury",
+    "genre": "Punk rock"
+  },
+  {
+    "id": 104,
+    "name": "Sharon Carter",
+    "genre": "Funk"
+  },
+  {
+    "id": 105,
+    "name": "Kate Bishop",
+    "genre": "Jazz"
+  },
+  {
+    "id": 106,
+    "name": "Emma Frost",
+    "genre": "Folk music"
+  },
+  {
+    "id": 107,
+    "name": "Kitty Pryde",
+    "genre": "Techno"
+  },
+  {
+    "id": 108,
+    "name": "Jessica Jones",
+    "genre": "Alternative Rock"
+  },
+  {
+    "id": 109,
+    "name": "Luke Cage",
+    "genre": "Country music"
+  },
+  {
+    "id": 110,
+    "name": "Carol Danvers",
+    "genre": "Pop"
+  }
+]

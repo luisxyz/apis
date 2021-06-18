@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1001,
+    "title": "Fury Live",
+    "price": "45.63",
+    "date": 1610758800,
+    "artist_id": 103,
+    "venue_id": 11
+  },
+  {
+    "id": 1002,
+    "title": "Hawkeye Live",
+    "price": "45.65",
+    "date": 1613437200,
+    "artist_id": 105,
+    "venue_id": 13
+  },
+  {
+    "id": 1003,
+    "title": "Kitty Pryde Live",
+    "price": "55.65",
+    "date": 1613696400,
+    "artist_id": 107,
+    "venue_id": 15
+  },
+  {
+    "id": 1004,
+    "title": "Luke Cage Live",
+    "price": "40.63",
+    "date": 1613869200,
+    "artist_id": 109,
+    "venue_id": 12
+  },
+  {
+    "id": 1005,
+    "title": "Captain Marvel Live",
+    "price": "45.60",
+    "date": 1613871000,
+    "artist_id": 110,
+    "venue_id": 14
+  },
+  {
+    "id": 1006,
+    "title": "John Anthony Live",
+    "price": "145.63",
+    "date": 1614735000,
+    "artist_id": 101,
+    "venue_id": 16
+  },
+  {
+    "id": 1007,
+    "title": "The Scarlet Witch Live",
+    "price": "45.65",
+    "date": 1615854600,
+    "artist_id": 102,
+    "venue_id": 18
+  },
+  {
+    "id": 1008,
+    "title": "Sharon Carter Live",
+    "price": "55.65",
+    "date": 1615861800,
+    "artist_id": 104,
+    "venue_id": 17
+  },
+  {
+    "id": 1009,
+    "title": "Emma Frost Live",
+    "price": "45.60",
+    "date": 1615861800,
+    "artist_id": 106,
+    "venue_id": 11
+  },
+  {
+    "id": 1010,
+    "title": "Jessica Jones Live",
+    "price": "75.65",
+    "date": 1618540200,
+    "artist_id": 108,
+    "venue_id": 12
+  }
+]
